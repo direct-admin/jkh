@@ -1,0 +1,9 @@
+#### Lang-specific vars
+
+#DateTime format
+msgid "format:datetime"
+msgstr "M/D/YYYY, HH:mm:ss"
+
+#Date format
+msgid "format:date"
+msgstr "M/D/YYYY"
